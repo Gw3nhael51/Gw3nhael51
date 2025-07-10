@@ -8,8 +8,8 @@
 ## 🚀 Projects
 
 - 🔒 [**GenpassV2**](https://github.com/Gw3nhael51/GenpassV2) — Secure password generator with automatic setup
-- 🌐 [**OrionDigital**](https://oriondigital.tech) — Digital identity services and web solutions
-- 🧼 [**Proxclean**](https://proxclean.oriondigital.tech) — Web showcase for cleaning professionals
+- 🌐 [**OrionDigital**](https://oriondigital.tech) — Personal showcase site for my freelance web development activity, featuring modern design, smooth animations, and a clean UI
+- 🧼 [**Proxclean**](https://proxclean.fr) — Professional website for a cleaning company, built with responsive design and SEO optimization
 
 ---
 
@@ -17,7 +17,7 @@
 
 - 📎 [My full portfolio](https://myportfolio-by-swennsco.online)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gwenhael-le-thiec)
-- ✉️ Contact: gwenhael.lethiec@viacesi.fr
+- ✉️ Contact: ltgwenhael2003@gmail.com
 
 ---
 
