@@ -2,7 +2,7 @@ name: WakaTime Stats
 
 on:
   schedule:
-    - cron: "0 2 * * *" # ⏰ Mise à jour quotidienne à 2h du matin
+    - cron: "30 21 * * *" # ⏰ Runs at 23h30 CEST / 21h30 UTC
   workflow_dispatch:
 
 jobs:
