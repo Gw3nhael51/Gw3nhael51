@@ -8,6 +8,9 @@
 
 ## ⚡ Featured Projects
 
+- 🔐 [GenpassV1](https://github.com/Gw3nhael51/GenpassV1)  
+  A secure password generator in Python with automated environment setup
+
 - 🔒 [GenpassV2](https://github.com/Gw3nhael51/GenpassV2)  
   A secure password generator in Python with automated environment setup
 
