@@ -17,7 +17,7 @@
 
 - 📎 [My full portfolio](https://myportfolio-by-swennsco.online)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gwenhael-le-thiec)
-- ✉️ Contact: ltgwenhael2003@gmail.com
+- ✉️ Contact: gwenhael.lethiec@viacesi.fr
 
 ---
 
