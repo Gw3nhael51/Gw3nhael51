@@ -1,16 +1,30 @@
-# Hi there 👋
+# 👋 Hello, I’m Gwenhael!
 
-## 👋 Salut, moi c’est Gwenhael !
+💻 Passionate Developer | 🎓 Student at CESI Reims  
+🔍 Focused on Python • Web • Automation • AI Projects
 
-💻 Développeur passionné | Étudiant à CESI Reims  
-🎯 Spécialisé en Python, web, automation & projets IA
+---
 
-🚀 Projets :
-- [GenpassV2 🔒](https://github.com/Gw3nhael51/GenpassV2) : générateur de mots de passe avancé
-- [OrionDigital 🌐](https://oriondigital.tech)
-- [Proxclean 🧼](https://proxclean.oriondigital.tech)
+## 🚀 Projects
 
-📎 [Mon portfolio complet](https://myportfolio-by-swennsco.online)  
-🔗 [LinkedIn](https://www.linkedin.com/in/gwenhael-le-thiec)
+- 🔒 [**GenpassV2**](https://github.com/Gw3nhael51/GenpassV2) — Secure password generator with automatic setup
+- 🌐 [**OrionDigital**](https://oriondigital.tech) — Digital identity services and web solutions
+- 🧼 [**Proxclean**](https://proxclean.oriondigital.tech) — Web showcase for cleaning professionals
+
+---
+
+## 🌐 Portfolio & Presence
+
+- 📎 [My full portfolio](https://myportfolio-by-swennsco.online)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gwenhael-le-thiec)
+- ✉️ Contact: ltgwenhael2003@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![Gw3nhael51 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gw3nhael51&show_icons=true&theme=tokyonight)
+
+---
 
 > 🧠 *“Créer, apprendre, partager — c’est ma philosophie.”*
