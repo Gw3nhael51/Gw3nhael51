@@ -9,10 +9,10 @@
 ## ⚡ Featured Projects
 
 - 🔐 [GenpassV1](https://github.com/Gw3nhael51/GenpassV1)  
-  A secure password generator in Python with automated environment setup
+  First version of a Python-based password generator — simple CLI tool with environment setup
 
 - 🔒 [GenpassV2](https://github.com/Gw3nhael51/GenpassV2)  
-  A secure password generator in Python with automated environment setup
+  Enhanced version with robust password generation, auto-install scripts, and multilingual README
 
 - 🤖 [OrionDigital](https://oriondigital.tech)  
   My personal showcase website — modern design, smooth animations, and responsive layout
