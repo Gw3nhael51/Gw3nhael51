@@ -1,9 +1,8 @@
-# Ce workflow GitHub Actions met à jour les statistiques WakaTime dans le README
 name: WakaTime Stats
 
 on:
   schedule:
-    - cron: "30 21 * * *" # ⏰ S'exécute à 23h30 CEST / 21h30 UTC
+    - cron: "30 21 * * *" # ⏰ Runs at 23h30 CEST / 21h30 UTC
   workflow_dispatch:
 
 jobs:
