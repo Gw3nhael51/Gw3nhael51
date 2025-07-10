@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Gw3nhael51/Gw3nhael51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Salut, moi c’est Gwenhael !
 
-Here are some ideas to get you started:
+💻 Développeur passionné | Étudiant à CESI Reims  
+🎯 Spécialisé en Python, web, automation & projets IA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projets :
+- [GenpassV2 🔒](https://github.com/Gw3nhael51/GenpassV2) : générateur de mots de passe avancé
+- [OrionDigital 🌐](https://oriondigital.tech)
+- [Proxclean 🧼](https://proxclean.oriondigital.tech)
+
+📎 [Mon portfolio complet](https://myportfolio-by-swennsco.online)  
+📫 Contact : ltgwenhael2003@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/gwenhael-le-thiec)
+
+> 🧠 *“Créer, apprendre, partager — c’est ma philosophie.”*
