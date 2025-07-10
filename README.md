@@ -72,16 +72,22 @@
 
 ---
 
-
 ## ⌨️ Weekly Coding Stats
+
 _Updated daily via [WakaTime](https://wakatime.com/@Gw3nhael51) · Auto-refresh using GitHub Actions_
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## 📊 GitHub Stats
+## 🚀 Statistiques GitHub
 
-![Gw3nhael51 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gw3nhael51&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gw3nhael51&show_icons=true&theme=radical&hide_title=true" alt="Statistiques GitHub de Gw3nhael51" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gw3nhael51&layout=donut&theme=radical&hide_title=true" alt="Langages les plus utilisés par Gw3nhael51" />
+</p>
 
 ---
 
