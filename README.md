@@ -11,7 +11,6 @@
 - [Proxclean 🧼](https://proxclean.oriondigital.tech)
 
 📎 [Mon portfolio complet](https://myportfolio-by-swennsco.online)  
-📫 Contact : ltgwenhael2003@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/gwenhael-le-thiec)
 
 > 🧠 *“Créer, apprendre, partager — c’est ma philosophie.”*
