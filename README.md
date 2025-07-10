@@ -72,12 +72,6 @@
 
 ## 📈 Coding Activity & GitHub Stats
 
-### ⌨️ Weekly Coding Stats  
-_Updated daily via [WakaTime](https://wakatime.com/@Gw3nhael51) · Auto-refresh powered by GitHub Actions_
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ### 🚀 GitHub Metrics
 
 <p align="center">
