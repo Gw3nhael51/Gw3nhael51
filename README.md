@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# 👋 Salut, moi c’est Gwenhael !
+## 👋 Salut, moi c’est Gwenhael !
 
 💻 Développeur passionné | Étudiant à CESI Reims  
 🎯 Spécialisé en Python, web, automation & projets IA
