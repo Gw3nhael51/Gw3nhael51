@@ -1,27 +1,50 @@
-# 👋 Hi, I'm Gwenhael
+# 👋 Hi, I'm Gwenhaël Le Thiec
 
-🎓 Computer Science Student at CESI Reims  
-💻 Passionate about coding, web design and artificial intelligence  
-🚀 Curious, autonomous, and always seeking new challenges
+🎓 Computer Science student at CESI Reims — aspiring Web & AI Developer  
+💡 Self-taught, curious, and driven by creativity and ethical tech  
+🧠 Passionate about building innovative tools, solving real-world problems, and exploring machine intelligence
 
 ---
 
-## ⚡ Featured Projects
+> 🎯 Currently seeking a 6-month internship (January–June 2026) as a Junior Developer  
+> 🏢 Available for remote or on-site (Reims / Paris)  
+> 📬 Contact me via [LinkedIn](https://www.linkedin.com/in/gwenhael-le-thiec) or email: gwenhael.lethiec@viacesi.fr
 
-- 🔐 [GenpassV1](https://github.com/Gw3nhael51/GenpassV1)  
-  First version of a Python-based password generator — simple CLI tool with environment setup
+---
 
-- 🔒 [GenpassV2](https://github.com/Gw3nhael51/GenpassV2)  
-  Enhanced version with robust password generation, auto-install scripts, and multilingual README
+## 🚀 Projects I'm Proud Of
 
 - 🤖 [OrionDigital](https://oriondigital.tech)  
-  My personal showcase website — modern design, smooth animations, and responsive layout
+  Personal showcase website — modern design, smooth animations, and fully responsive layout.  
+  ➤ Built with Flask, featuring Text-to-Speech (TTS), voice command integration, and offline AI powered by Ollama APIs.
+
+<p align="center">
+  <img src="./images/orion_banner.png" width="90%" alt="Aperçu bannière Orion">
+</p>
+
+- 🔐 [GenPassV1](https://github.com/Gw3nhael51/GenpassV1)  
+  First version of a Python-based password generator — simple CLI tool with environment setup.
+
+- 🔒 [GenPassV2](https://github.com/Gw3nhael51/GenpassV2)  
+  Improved version with robust password generation, auto-install scripts, and multilingual documentation.
+
+<p align="center">
+  <img src="./images/screen.png" width="80%" alt="Aperçu GenPassV2">
+</p>
+
+- 🎨 [My Portfolio](https://myportfolio-by-swennsco.online)  
+  Central hub featuring my projects, skills, résumé and career journey.
+
+<p align="center">
+  <img src="https://myportfolio-by-swennsco.online/Images/devweb.png" width="30%" alt="Aperçu logo developpeur web">
+</p>
 
 - 🧼 [Proxclean](https://proxclean.fr)  
   Professional website built for a cleaning service company — clean UI and SEO-optimized
 
-- 🎨 [My full portfolio](https://myportfolio-by-swennsco.online)  
-  Central hub featuring my projects, skills, resume and career path
+<p align="center">
+  <img src="./images/proxclean.png" width="100%" alt="Aperçu page index Proxclean.fr">
+</p>
 
 ---
 
@@ -81,7 +104,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gw3nhael51&layout=donut&theme=radical&hide_title=true" alt="Top Languages Used by Gw3nhael51" />
 </p>
-
 
 ---
 
