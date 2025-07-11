@@ -95,11 +95,12 @@
 
 ---
 ## ✨ GitHub Animations & Live Stats
-### 📌 Pinned Repositories
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gw3nhael51&layout=donut&theme=radical&hide_title=true" width="400" alt="Top Languages Used by Gw3nhael51" />
 </p>
+
+### 📌 Pinned Repositories
 
 <p align="center">
   <a href="https://github.com/Gw3nhael51/algoJs">
