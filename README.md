@@ -40,7 +40,7 @@
 </p>
 
 - 🧼 [Proxclean](https://proxclean.fr)  
-  Professional website built for a cleaning service company — clean UI and SEO-optimized
+  Professional website built for a cleaning service company — clean UI and SEO-optimized.
 
 <p align="center">
   <img src="./images/proxclean.png" width="100%" alt="Aperçu page index Proxclean.fr">
@@ -94,29 +94,33 @@
 - 🧠 [GitHub](https://github.com/Gw3nhael51)
 
 ---
-## ✨ GitHub Animations & Live Stats
+
+## 📈 GitHub Stats & Activity
+
+### 🚀 My GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gw3nhael51&show_icons=true&theme=radical&hide_title=true" alt="Gw3nhael51 GitHub Stats" />
+</p>
+
+### 📊 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gw3nhael51&layout=donut&theme=radical&hide_title=true" width="400" alt="Top Languages Used by Gw3nhael51" />
 </p>
 
-### 📌 Pinned Repositories
+### 📌 Featured Repositories
 
 <p align="center">
   <a href="https://github.com/Gw3nhael51/algoJs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gw3nhael51&repo=algoJs&theme=radical" alt="Pinned Repo: algoJs" width="400" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Gw3nhael51/bootstrap">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gw3nhael51&repo=bootstrap&theme=radical" alt="Pinned Repo: Bootstrap" width="400" />
   </a>
 </p>
 
----
-
-### 🏆 Github Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gw3nhael51&theme=radical&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
@@ -124,4 +128,4 @@
 
 ---
 
-> 🧠 _“Create, learn, share — that's my philosophy.”_
+> 🧠 _"Create, learn, share — that's my philosophy."_
