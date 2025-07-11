@@ -93,6 +93,8 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gwenhael-le-thiec)
 - 🧠 [GitHub](https://github.com/Gw3nhael51)
 
+---
+## ✨ GitHub Animations & Live Stats
 ### 📌 Pinned Repositories
 
 <p align="center">
@@ -112,18 +114,11 @@
 </p>
 
 ---
+
 ### 🏆 Github Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gw3nhael51&theme=radical&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📊 Add Contribution Graph with Animation
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gw3nhael51&theme=radical" alt="Contribution Graph Animated" />
 </p>
 
 ---
