@@ -78,7 +78,10 @@
 ---
 ## 📈 GitHub Stats & Activity
 ### 🚀 [View My GitHub Stats](https://github.com/Gw3nhael51)
-### 📊 [Top Languages](https://github.com/Gw3nhael51)
+
+### 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gw3nhael51&layout=compact&theme=radical&hide_title=true&cache_seconds=0)
+
 ### 🏆 [GitHub Trophies](https://github.com/Gw3nhael51)
 
 ---
