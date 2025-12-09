@@ -98,37 +98,28 @@
 ## 📈 GitHub Stats & Activity
 
 ### 🚀 My GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gw3nhael51&show_icons=true&theme=radical&hide_title=true" alt="Gw3nhael51 GitHub Stats" />
-</p>
+![Gw3nhael51 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gw3nhael51&show_icons=true&theme=radical&hide_title=true)
 
 ### 📊 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gw3nhael51&layout=donut&theme=radical&hide_title=true" width="400" alt="Top Languages Used by Gw3nhael51" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gw3nhael51&layout=donut&theme=radical&hide_title=true)
 
 ### 💻 Last Project
 [![wakatime](https://wakatime.com/badge/user/1c7675a3-b1f7-400e-b246-88c9833be599/project/18ae4fad-9d11-4d62-90bf-944d31a432cc.svg)](https://wakatime.com/badge/user/1c7675a3-b1f7-400e-b246-88c9833be599/project/18ae4fad-9d11-4d62-90bf-944d31a432cc)
 
 ### 📌 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/Gw3nhael51/algoJs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gw3nhael51&repo=algoJs&theme=radical" alt="Pinned Repo: algoJs" width="400" />
-  </a>
-  <a href="https://github.com/Gw3nhael51/bootstrap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gw3nhael51&repo=bootstrap&theme=radical" alt="Pinned Repo: Bootstrap" width="400" />
-  </a>
-</p>
+![Pinned Repo algoJs](https://github-readme-stats.vercel.app/api/pin/?username=Gw3nhael51&repo=algoJs&theme=radical)
+![Pinned Repo Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=Gw3nhael51&repo=bootstrap&theme=radical)
 
 ### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gw3nhael51&theme=radical&margin-w=15&margin-h=15&column=4)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gw3nhael51&theme=radical&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
+
+### Last project
+[![wakatime](https://wakatime.com/badge/user/1c7675a3-b1f7-400e-b246-88c9833be599/project/18ae4fad-9d11-4d62-90bf-944d31a432cc.svg)](https://wakatime.com/badge/user/1c7675a3-b1f7-400e-b246-88c9833be599/project/18ae4fad-9d11-4d62-90bf-944d31a432cc)
 
 > 🧠 _"Create, learn, share — that's my philosophy."_
