@@ -109,6 +109,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gw3nhael51&layout=donut&theme=radical&hide_title=true" width="400" alt="Top Languages Used by Gw3nhael51" />
 </p>
 
+### 💻 Last Project
+[![wakatime](https://wakatime.com/badge/user/1c7675a3-b1f7-400e-b246-88c9833be599/project/18ae4fad-9d11-4d62-90bf-944d31a432cc.svg)](https://wakatime.com/badge/user/1c7675a3-b1f7-400e-b246-88c9833be599/project/18ae4fad-9d11-4d62-90bf-944d31a432cc)
+
 ### 📌 Featured Repositories
 
 <p align="center">
