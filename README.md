@@ -6,9 +6,8 @@
 
 ---
 
-> 🎯 Currently seeking a 6-month internship (January–June 2026) as a Junior Developer  
-> 🏢 Available for remote or on-site (Reims / Paris)  
-> 📬 Contact me via [LinkedIn](https://www.linkedin.com/in/gwenhael-le-thiec) or email: gwenhael.lethiec@viacesi.fr
+> 🎯 Currently internship (January–June 2026) as a Junior Developer  
+> 📬 Add me via [LinkedIn](https://www.linkedin.com/in/gwenhael-le-thiec)
 
 ---
 
@@ -19,17 +18,18 @@
   ➤ Built with Flask, featuring Text-to-Speech (TTS), voice command integration, and offline AI powered by Ollama APIs.
 
 <p align="center">
-  <img src="./images/orion_banner.png" width="90%" alt="Aperçu bannière Orion">
+  <img src="https://raw.githubusercontent.com/Gw3nhael51/Gw3nhael51/main/images/orion_banner.png" width="90%" alt="Aperçu bannière Orion">
 </p>
 
 - 🔐 [GenPassV1](https://github.com/Gw3nhael51/GenpassV1)  
   First version of a Python-based password generator — simple CLI tool with environment setup.
 
+
 - 🔒 [GenPassV2](https://github.com/Gw3nhael51/GenpassV2)  
   Improved version with robust password generation, auto-install scripts, and multilingual documentation.
 
 <p align="center">
-  <img src="./images/screen.png" width="80%" alt="Aperçu GenPassV2">
+  <img src="https://raw.githubusercontent.com/Gw3nhael51/Gw3nhael51/main/images/screen.png" width="80%" alt="Aperçu GenPassV2">
 </p>
 
 - 🎨 [My Portfolio](https://myportfolio-by-swennsco.online)  
@@ -43,7 +43,7 @@
   Professional website built for a cleaning service company — clean UI and SEO-optimized.
 
 <p align="center">
-  <img src="./images/proxclean.png" width="100%" alt="Aperçu page index Proxclean.fr">
+  <img src="https://raw.githubusercontent.com/Gw3nhael51/Gw3nhael51/main/images/proxclean.png" width="100%" alt="Aperçu page index Proxclean.fr">
 </p>
 
 ---
