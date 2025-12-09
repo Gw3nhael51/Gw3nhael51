@@ -98,7 +98,7 @@
 ## 📈 GitHub Stats & Activity
 
 ### 🚀 My GitHub Metrics
-// Utilisation d'une instance miroir si l'officielle est down
+
 ![Gw3nhael51 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gw3nhael51&show_icons=true&theme=radical&hide_title=true&cache_seconds=1800)
 
 ### 📊 Top Languages
@@ -108,7 +108,7 @@
 [![wakatime](https://wakatime.com/badge/user/1c7675a3-b1f7-400e-b246-88c9833be599/project/18ae4fad-9d11-4d62-90bf-944d31a432cc.svg)](https://wakatime.com/badge/user/1c7675a3-b1f7-400e-b246-88c9833be599/project/18ae4fad-9d11-4d62-90bf-944d31a432cc)
 
 ### 📌 Featured Repositories
-// Correction : Assure-toi que ces repos sont PUBLICS. Sinon 404 assuree.
+
 ![Pinned Repo algoJs](https://github-readme-stats.vercel.app/api/pin/?username=Gw3nhael51&repo=algoJs&theme=radical)
 ![Pinned Repo Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=Gw3nhael51&repo=bootstrap&theme=radical)
 
