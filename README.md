@@ -1,88 +1,124 @@
-# 👋 Hi, I'm Gwenhaël Le Thiec
-🎓 Computer Science student at CESI Reims — aspiring Web & AI Developer
-💡 Self-taught, curious, and driven by creativity and ethical tech
-🧠 Passionate about building innovative tools, solving real-world problems, and exploring machine intelligence
+<p align="center">
+  <h1>System.run(Gwenhaël_Le_Thiec) | Web & AI Developer</h1>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gwenhael-le-thiec/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Gw3nhael51"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.malt.fr/profile/gwenhaellethiec"><img src="https://img.shields.io/badge/Malt-FF5A5F?style=for-the-badge&logo=malt&logoColor=white" /></a>
+  <a href="https://myportfolio-by-swennsco.online/"><img src="https://img.shields.io/badge/Portfolio-bc13fe?style=for-the-badge&logo=react&logoColor=white" /></a>
+</p>
 
 ---
-> 🎯 Currently in internship (January–June 2026) as a Junior Developer
-> 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/gwenhael-le-thiec)
+
+### À propos
+- Étudiant en informatique au CESI Reims.
+- Spécialisé en création d’outils IA, pipelines ML (Vision), architectures API et IA responsable.
+- Actuellement en stage (Janvier – Juin 2026) en développement Web moderne (Next.js / React).
+
+> "Transformer des lignes de code en solutions fiables et utiles."
 
 ---
-## 🚀 Projects I'm Proud Of
-- 🤖 **[OrionDigital](https://oriondigital.tech)**
-  Personal showcase website — modern design, smooth animations, and fully responsive layout.
-  Built with **Flask**, featuring **Text-to-Speech (TTS)**, voice command integration, and offline AI powered by **Ollama APIs**.
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Gw3nhael51/Gw3nhael51/main/images/orion_banner.png" width="90%" alt="OrionDigital Banner">
-  </p>
 
-- 🔐 **[GenPassV1](https://github.com/Gw3nhael51/GenpassV1)**
-  First version of a Python-based password generator — simple CLI tool with environment setup.
+### Stack Technique
 
-- 🔒 **[GenPassV2](https://github.com/Gw3nhael51/GenpassV2)**
-  Improved version with robust password generation, auto-install scripts, and multilingual documentation.
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Gw3nhael51/Gw3nhael51/main/images/screen.png" width="80%" alt="GenPassV2 Preview">
-  </p>
+#### IA & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow/Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MobileNet_Vision_Models-bc13fe?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAI_Explainability-6A0DAD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML_Pipelines-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPU_Training_Workflows-00AEEF?style=for-the-badge" />
+</p>
 
-- 🎨 **[My Portfolio](https://myportfolio-by-swennsco.online)**
-  Central hub featuring my projects, skills, résumé, and career journey.
-  <p align="center">
-    <img src="https://myportfolio-by-swennsco.online/Images/devweb.png" width="30%" alt="Web Developer Logo">
-  </p>
+#### Web & Mobile
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_JEE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP_8.2-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-- 🧼 **[Proxclean](https://proxclean.fr)**
-  Professional website built for a cleaning service company — clean UI and SEO-optimized.
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Gw3nhael51/Gw3nhael51/main/images/proxclean.png" width="100%" alt="Proxclean Homepage">
-  </p>
-
----
-## 🛠️ Technical Skills
-**Languages & Frameworks**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
-
-**Databases & Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
-
-**DevOps & AI**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FCC624?logo=huggingface&logoColor=black)
-![APIs](https://img.shields.io/badge/-APIs-0052CC?logo=graphql&logoColor=white)
-![Make](https://img.shields.io/badge/-Make-000000?logo=make&logoColor=white)
-
-**Software & Environments**
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
+#### DevOps & Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitFlow-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu-make&logoColor=white" />
+</p>
 
 ---
-## 📫 Connect with me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gwenhael-le-thiec)
-- 🧠 [GitHub](https://github.com/Gw3nhael51)
+
+### Projets Principaux
+
+#### ClarityInsur.ai — Vision AI Pipeline (B2B)
+Pipeline complet d’analyse d’images pour l’évaluation des risques canins.  
+- Fine‑tuning MobileNet/MobileVNet sur dataset d’images.  
+- Conversion et optimisation ONNX (CPU/GPU).  
+- API FastAPI versionnée, schémas Pydantic, audit trail.  
+- Module XAI pour explicabilité des prédictions.  
+- Alignement EU AI Act : transparence, gestion des risques, audit interne.  
+- Déploiement Docker avec workflows GPU/CPU et Makefile.
+
+#### OrionDigital
+Écosystème multi‑couches centré sur l’IA.  
+- Core Engine Python pour traitement de données.  
+- Version interne PHP intégrant Ollama.  
+- IA locale, TTS, interface réactive.
+
+#### Stage — Développement Web Moderne
+Développement d’interfaces scalables et dynamiques.  
+- Stack : Next.js, React, GSAP, Tailwind.  
+- Composants dynamiques, optimisation UI.
+
+#### G2P4 — Cabine Connectée (Privé)
+Système industriel containerisé.  
+- Stack : PHP 8.2, MySQL 8.0, Docker, Makefile.  
+- Déploiement Dev/Test/Prod via GitFlow.
+
+#### AgroConnect
+Application d’annuaire d’entreprise.  
+- Java + JavaFX (MVC).  
+- POO stricte, ORM.  
+- Note : A.
 
 ---
-## 📈 GitHub Stats & Activity
-### 🚀 [View My GitHub Stats](https://github.com/Gw3nhael51)
 
-### 📊 Top Languages
-> *Les statistiques des langages sont temporanément indisponibles.*
+### Academics & Research
 
-### 🏆 [GitHub Trophies](https://github.com/Gw3nhael51)
+- Vision AI Pipeline (ClarityInsur.ai) : entraînement, ONNX, XAI, conformité réglementaire.  
+- Projets Cube 1 & 2 : jeux et chat collaboratif (Python/Flutter), notes A.  
+- Object-Oriented Mastery : micro‑projets Java (polymorphisme, abstraction).  
+- Algorithmie : résolution de problèmes en Ruby et Python.
 
 ---
-> 🧠 _"Create, learn, share — that's my philosophy."_
+
+### Activité & Statistiques
+
+[![wakatime](https://wakatime.com/badge/user/1c7675a3-b1f7-400e-b246-88c9833be599.svg)](https://wakatime.com/@Gw3gwe)
+
+<p align="center">
+  <a href="https://wakatime.com/@Gw3gwe">
+    <img src="https://wakatime.com/share/@Gw3gwe/8bef2a51-e79e-4481-8738-336bfb61be18.png" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@Gw3gwe">
+    <img src="https://wakatime.com/share/@Gw3gwe/7ae18b24-f7b2-4494-b36a-fd5b92ab9299.png" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=bc13fe&height=100&section=footer" />
+</p>
