@@ -57,38 +57,39 @@
 
 ---
 
-### Projets Principaux
-
-#### ClarityInsur.ai — Vision AI Pipeline (B2B)
-Pipeline complet d’analyse d’images pour l’évaluation des risques canins.  
-- Fine‑tuning MobileNet/MobileVNet sur dataset d’images.  
-- Conversion et optimisation ONNX (CPU/GPU).  
-- API FastAPI versionnée, schémas Pydantic, audit trail.  
-- Module XAI pour explicabilité des prédictions.  
-- Alignement EU AI Act : transparence, gestion des risques, audit interne.  
-- Déploiement Docker avec workflows GPU/CPU et Makefile.
-
-#### OrionDigital
-Écosystème multi‑couches centré sur l’IA.  
-- Core Engine Python pour traitement de données.  
-- Version interne PHP intégrant Ollama.  
-- IA locale, TTS, interface réactive.
+### Projets Principaux (ordre chronologique)
 
 #### Stage — Développement Web Moderne
 Développement d’interfaces scalables et dynamiques.  
 - Stack : Next.js, React, GSAP, Tailwind.  
-- Composants dynamiques, optimisation UI.
+- Conception de composants dynamiques et optimisation UI.
 
-#### G2P4 — Cabine Connectée (Privé)
+#### G2P4 — Cabine Connectée (en cours)
 Système industriel containerisé.  
 - Stack : PHP 8.2, MySQL 8.0, Docker, Makefile.  
 - Déploiement Dev/Test/Prod via GitFlow.
 
+#### ClarityInsur.ai — Vision AI Pipeline (B2B)
+Pipeline d’analyse d’images pour scoring de risques canins.  
+- Fine‑tuning MobileNet/MobileVNet sur dataset d’images.  
+- Conversion et optimisation ONNX (CPU/GPU).  
+- API FastAPI versionnée avec schémas Pydantic.  
+- Module XAI pour explicabilité.  
+- Conformité EU AI Act (transparence, gestion des risques).  
+- Déploiement Docker avec workflows CPU/GPU.
+
+#### OrionDigital  (en pause partielle)
+Écosystème multi‑couches orienté IA.  
+- Core Engine Python pour traitement de données.  
+- Version interne PHP intégrant Ollama.  
+- IA locale, TTS, interface réactive.
+
 #### AgroConnect
-Application d’annuaire d’entreprise.  
-- Java + JavaFX (MVC).  
-- POO stricte, ORM.  
-- Note : A.
+Application d’annuaire d’entreprise développée en Java.  
+- Architecture JavaFX (MVC) avec ORM.  
+- Mise en œuvre stricte de la POO.  
+- Note : A.  
+- Préparation à la mise en public (patch du hashage des mots de passe).
 
 ---
 
