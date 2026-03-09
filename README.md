@@ -59,32 +59,32 @@
 
 ### Projets Principaux (ordre chronologique)
 
-#### Stage — Développement Web Moderne
+#### 🚀 Stage — Développement Web Moderne
 Développement d’interfaces scalables et dynamiques.  
 - Stack : Next.js, React, GSAP, Tailwind.  
 - Conception de composants dynamiques et optimisation UI.
 
-#### G2P4 — Cabine Connectée (en cours)
+#### 🏗️ G2P4 — Cabine Connectée (en cours)
 Système industriel containerisé.  
 - Stack : PHP 8.2, MySQL 8.0, Docker, Makefile.  
 - Déploiement Dev/Test/Prod via GitFlow.
 
-#### ClarityInsur.ai — Vision AI Pipeline (B2B)
+#### 🧠 ClarityInsur.ai — Vision AI Pipeline (B2B)
 Pipeline d’analyse d’images pour scoring de risques canins.  
 - Fine‑tuning MobileNet/MobileVNet sur dataset d’images.  
 - Conversion et optimisation ONNX (CPU/GPU).  
 - API FastAPI versionnée avec schémas Pydantic.  
 - Module XAI pour explicabilité.  
-- Conformité EU AI Act (transparence, gestion des risques).  
+- Conformité EU AI Act.  
 - Déploiement Docker avec workflows CPU/GPU.
 
-#### OrionDigital  (en pause partielle)
+#### 🤖 OrionDigital (en pause partielle)
 Écosystème multi‑couches orienté IA.  
 - Core Engine Python pour traitement de données.  
 - Version interne PHP intégrant Ollama.  
 - IA locale, TTS, interface réactive.
 
-#### AgroConnect
+#### 📁 AgroConnect
 Application d’annuaire d’entreprise développée en Java.  
 - Architecture JavaFX (MVC) avec ORM.  
 - Mise en œuvre stricte de la POO.  
