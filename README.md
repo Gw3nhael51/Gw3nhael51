@@ -71,12 +71,12 @@ Système industriel containerisé.
 
 #### 🧠 ClarityInsur.ai — Vision AI Pipeline (B2B)
 Pipeline d’analyse d’images pour scoring de risques canins.  
-- Fine‑tuning MobileNet/MobileVNet sur dataset d’images.  
-- Conversion et optimisation ONNX (CPU/GPU).  
-- API FastAPI versionnée avec schémas Pydantic.  
-- Module XAI pour explicabilité.  
-- Conformité EU AI Act.  
-- Déploiement Docker avec workflows CPU/GPU.
+  - Fine‑tuning MobileNet/MobileVNet sur dataset d’images.
+  - Conversion et optimisation ONNX pour déploiement performant.
+  - API FastAPI versionnée avec schémas Pydantic.
+  - Module XAI pour explicabilité des prédictions.
+  - Alignement avec les exigences du EU AI Act.
+  - Déploiement Docker industrialisé.
 
 #### 🤖 OrionDigital (en pause partielle)
 Écosystème multi‑couches orienté IA.  
