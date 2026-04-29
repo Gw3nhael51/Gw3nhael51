@@ -1,125 +1,187 @@
 <p align="center">
-  <h1>System.run(Gwenhaël_Le_Thiec) | Web & AI Developer</h1>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/212b34104893379.5f6cc87656bf0.gif" width="100%" />
+</p>
+
+<h1 align="center">Gwenhaël Le Thiec</h1>
+<h2 align="center">AI Engineer & MLOps — De l'entraînement GPU au déploiement industriel</h2>
+<p align="center">Vision • GPU Training • Industrial Deployment</p>
+
+
+<p align="center" style="margin-top:20px;">
+  <a href="https://wakatime.com/@Gw3gwe">
+    <img src="https://wakatime.com/badge/user/1c7675a3-b1f7-400e-b246-88c9833be599.svg?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gwenhael-le-thiec/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Gw3nhael51"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.malt.fr/profile/gwenhaellethiec"><img src="https://img.shields.io/badge/Malt-FF5A5F?style=for-the-badge&logo=malt&logoColor=white" /></a>
-  <a href="https://myportfolio-by-swennsco.online/"><img src="https://img.shields.io/badge/Portfolio-bc13fe?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gwenhael-le-thiec/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Gw3nhael51">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://oriondigital.tech/">
+    <img src="https://img.shields.io/badge/ORION-bc13fe?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### À propos
-- Étudiant en informatique au CESI Reims.
-- Spécialisé en création d’outils IA, pipelines ML (Vision), architectures API et IA responsable.
-- Actuellement en stage (Janvier – Juin 2026) en développement Web moderne (Next.js / React).
+# 🎯 PROFIL
 
-> "Transformer des lignes de code en solutions fiables et utiles."
+Étudiant en alternance au **CESI Reims (CDA Bac+3)**, spécialisé en **Computer Vision**, **MLOps** et **déploiement de modèles IA en production**.
+
+- **Actuellement :** Stagiaire Développement Web chez **TDM-GROUP** (Janvier → Juin 2026)  
+- **Objectif :** Alternance **AI Engineer / MLOps** (Août/Septembre 2026)
+
+**Approche :**  
+Je conçois des pipelines IA complets :  
+**Entraînement GPU → Optimisation ONNX → API FastAPI → Conteneurisation Docker → Déploiement industriel.**
+
+> *"De l'entraînement GPU au conteneur Docker ML end-to-end."*
 
 ---
 
-### Stack Technique
+# 🛠️ STACK TECHNIQUE
 
-#### IA & Machine Learning
+### 🧠 Vision par Ordinateur & ML
+<p align="left">
+  <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+### ⚙️ MLOps & Production
+<p align="left">
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPU_Training-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+### 🏗️ Backend & Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow/Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MobileNet_Vision_Models-bc13fe?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAI_Explainability-6A0DAD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ML_Pipelines-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GPU_Training_Workflows-00AEEF?style=for-the-badge" />
-</p>
-
-#### Web & Mobile
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java_JEE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP_8.2-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-#### DevOps & Architecture
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitFlow-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu-make&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP_8.2-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white" />
 </p>
 
 ---
 
-### Projets Principaux (ordre chronologique)
+# 🚀 RÉALISATIONS TECHNIQUES
 
-#### 🚀 Stage — Développement Web Moderne
-Développement d’interfaces scalables et dynamiques.  
-- Stack : Next.js, React, GSAP, Tailwind.  
-- Conception de composants dynamiques et optimisation UI.
-
-#### 🏗️ G2P4 — Cabine Connectée (en cours)
-Système industriel containerisé.  
-- Stack : PHP 8.2, MySQL 8.0, Docker, Makefile.  
-- Déploiement Dev/Test/Prod via GitFlow.
-
-#### 🧠 ClarityInsur.ai — Vision AI Pipeline (B2B)
-Pipeline d’analyse d’images pour scoring de risques canins.  
-  - Fine‑tuning MobileNet/MobileVNet sur dataset d’images.
-  - Conversion et optimisation ONNX pour déploiement performant.
-  - API FastAPI versionnée avec schémas Pydantic.
-  - Module XAI pour explicabilité des prédictions.
-  - Alignement avec les exigences du EU AI Act.
-  - Déploiement Docker industrialisé.
-
-#### 🤖 OrionDigital (en pause partielle)
-Écosystème multi‑couches orienté IA.  
-- Core Engine Python pour traitement de données.  
-- Version interne PHP intégrant Ollama.  
-- IA locale, TTS, interface réactive.
-
-#### 📁 AgroConnect
-Application d’annuaire d’entreprise développée en Java.  
-- Architecture JavaFX (MVC) avec ORM.  
-- Mise en œuvre stricte de la POO.  
-- Note : A.  
-- Préparation à la mise en public (patch du hashage des mots de passe).
+> *Certains dépôts sont privés pour raisons de confidentialité.*
 
 ---
 
-### Academics & Research
+## 🧠 ClarityInsur.ai — Vision AI Pipeline B2B  
+**Classification & scoring de risques (Assurance)** `🔒 Private`
 
-- Vision AI Pipeline (ClarityInsur.ai) : entraînement, ONNX, XAI, conformité réglementaire.  
-- Projets Cube 1 & 2 : jeux et chat collaboratif (Python/Flutter), notes A.  
-- Object-Oriented Mastery : micro‑projets Java (polymorphisme, abstraction).  
-- Algorithmie : résolution de problèmes en Ruby et Python.
+```
+Précision : 96.28% | Races : 124 | Inférence : 8.74ms
+```
+
+**Tech :**  
+- Fine-tuning **MobileNetV2**  
+- Optimisation **ONNX Runtime**  
+- API **FastAPI** + module **XAI**  
+- Déploiement **Docker multi-stage**
+
+<p align="center">
+  <img src="images/clarity-before.png" width="45%" />
+  <img src="images/clarity-after.png" width="45%" />
+</p>
 
 ---
 
-### Activité & Statistiques
+## 🤖 Jarvis — Assistant Vocal Local (Ollama)  
+**Assistant vocal IA multimodal local** `🔒 Private`
 
-[![wakatime](https://wakatime.com/badge/user/1c7675a3-b1f7-400e-b246-88c9833be599.svg)](https://wakatime.com/@Gw3gwe)
+Pipeline :  
+```
+Voix → STT → Llama3.1 (Ollama) → TTS → Google Home
+```
+
+**Tech :**  
+- Docker Compose (app + Ollama + audio server)  
+- Discord bot modulaire  
+- Piper TTS FR  
+- Orchestration Makefile
+
+<p align="center">
+  <img src="images/orion_banner.png" width="100%" />
+</p>
+
+---
+
+## 🏗️ G2P4 — Système Industriel Containerisé  
+**Projet académique (PHP 8.2 + MySQL + Docker)** `🔒 Private`
+
+- Architecture **MVC**  
+- Environnements **Dev/Test/Prod**  
+- Makefile complet  
+- GitFlow
+
+<p align="center">
+  <img src="images/cube-projt.png" width="100%" />
+</p>
+
+---
+
+## 🔬 PyTorch Lab — FashionMNIST  
+**Laboratoire PyTorch modulaire** `⏳ En cours`
+
+- MLP custom  
+- Tests Pytest  
+- Pipeline GPU  
+- CLI + Makefile  
+- Structure ML pro
+
+<p align="center">
+  <img src="images/pytorchlab.png" width="100%" />
+</p>
+
+---
+
+# 📚 AUTRES PROJETS
+
+### Computer Vision & ML
+- **petsClassifier**
+- **dog-risk-scoring-api**
+
+### Data Analysis
+- **streamlit** — Dashboards S&P 500  
+- **Harvard-CS50AI-Projects** — BFS/DFS, logique, probas (code privé)
+
+### Académique
+- **AgroConnect** — JavaFX, MVC, ORM, rôles & CRUD
+
+---
+
+# 🔭 VISION & OBJECTIFS
+
+- Segmentation & détection (YOLO, Mask R-CNN)  
+- IA vocale locale (edge computing)  
+- Domotique intelligente  
+- Quantum ML (exploration)
+
+---
+
+# 📊 ACTIVITÉ
 
 <p align="center">
   <a href="https://wakatime.com/@Gw3gwe">
     <img src="https://wakatime.com/share/@Gw3gwe/8bef2a51-e79e-4481-8738-336bfb61be18.png" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://wakatime.com/@Gw3gwe">
     <img src="https://wakatime.com/share/@Gw3gwe/7ae18b24-f7b2-4494-b36a-fd5b92ab9299.png" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=bc13fe&height=100&section=footer" />
 </p>
