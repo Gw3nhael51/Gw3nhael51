@@ -31,8 +31,8 @@
 
 <h1 align="center">Profil</h1>
 
-Étudiant en **Bac+2 Informatique — CESI Reims**, en préparation d’un **Bac+3 CDA**.  
-Spécialisation : **backend Python**, **API**, **pipelines data** et **IA appliquée** — intégration, optimisation et déploiement de modèles entraînés dans des applications concrètes.
+Étudiant en **Bac+2 Informatique à CESI Reims**, en préparation d’un **Bac+3 CDA**.  
+Spécialisation : **backend Python**, **API**, **pipelines data** et **IA appliquée**, intégration, optimisation et déploiement de modèles entraînés dans des applications concrètes.
 
 - **🎓 Formation :** Bac+2 Informatique (CESI Reims) — poursuite en Bac+3 CDA  
 - **💼 Actuellement :** Stagiaire Développement Web — **TDM‑GROUP** (Janvier → Juin 2026)  
