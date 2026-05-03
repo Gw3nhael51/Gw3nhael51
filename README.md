@@ -1,125 +1,179 @@
 <p align="center">
-  <h1>System.run(Gwenhaël_Le_Thiec) | Web & AI Developer</h1>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/212b34104893379.5f6cc87656bf0.gif" width="100%" />
+</p>
+
+<h1 align="center">Gwenhaël Le Thiec</h1>
+<h2 align="center">Développeur Python • Backend • IA appliquée</h2>
+<p align="center">APIs • Data Pipelines • Déploiement de modèles IA</p>
+
+<p align="center" style="margin-top:20px;">
+  <a href="https://wakatime.com/@Gw3gwe">
+    <img src="https://wakatime.com/badge/user/1c7675a3-b1f7-400e-b246-88c9833be599.svg?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gwenhael-le-thiec/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Gw3nhael51"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.malt.fr/profile/gwenhaellethiec"><img src="https://img.shields.io/badge/Malt-FF5A5F?style=for-the-badge&logo=malt&logoColor=white" /></a>
-  <a href="https://myportfolio-by-swennsco.online/"><img src="https://img.shields.io/badge/Portfolio-bc13fe?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gwenhael-le-thiec/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://myportfolio-by-swennsco.online/">
+    <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Gw3nhael51">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://oriondigital.tech/">
+    <img src="https://img.shields.io/badge/ORION-bc13fe?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### À propos
-- Étudiant en informatique au CESI Reims.
-- Spécialisé en création d’outils IA, pipelines ML (Vision), architectures API et IA responsable.
-- Actuellement en stage (Janvier – Juin 2026) en développement Web moderne (Next.js / React).
+<h1 align="center">Profil</h1>
 
-> "Transformer des lignes de code en solutions fiables et utiles."
+Étudiant en **Bac+2 Informatique — CESI Reims**, en préparation d’un **Bac+3 CDA**.  
+Spécialisation : **backend Python**, **API**, **pipelines data** et **IA appliquée** — intégration, optimisation et déploiement de modèles entraînés dans des applications concrètes.
 
----
+- **🎓 Formation :** Bac+2 Informatique (CESI Reims) — poursuite en Bac+3 CDA  
+- **💼 Actuellement :** Stagiaire Développement Web — **TDM‑GROUP** (Janvier → Juin 2026)  
+- **🎯 Objectif :** Alternance **Python / Backend / Data / IA appliquée** (Août/Septembre 2026)
 
-### Stack Technique
+**Approche technique :**  
+Je conçois et livre des solutions end‑to‑end :  
+**FastAPI → Pipelines Data → Modèles IA (TensorFlow → ONNX) → Docker → Déploiement.**
 
-#### IA & Machine Learning
+> *IA appliquée = intégrer et déployer des modèles entraînés dans des systèmes réels, pas consommer des API externes.*
+
+<h1 align="center">Stack technique</h1>
+
+### Python, Data & IA appliquée:
 <p align="left">
+  <strong>Usage :</strong> prototypage, préparation de données et entraînement → export modèles pour inference locale. 🧠
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+</p>
+
+### Backend & Déploiement:
+<p align="left">
+  <strong>Usage :</strong> APIs, conteneurisation, bases relationnelles et déploiement. 🐳🗄️
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow/Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MobileNet_Vision_Models-bc13fe?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAI_Explainability-6A0DAD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ML_Pipelines-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GPU_Training_Workflows-00AEEF?style=for-the-badge" />
-</p>
-
-#### Web & Mobile
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java_JEE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP_8.2-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-#### DevOps & Architecture
-<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitFlow-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu-make&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### Outils & Front-end
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
+<p align="left">
+  <strong>Usage :</strong> interfaces, intégration front→back, gestion de versions et outils locaux pour LLMs. 🔧💻
 </p>
 
 ---
 
-### Projets Principaux (ordre chronologique)
+# Projets principaux
 
-#### 🚀 Stage — Développement Web Moderne
-Développement d’interfaces scalables et dynamiques.  
-- Stack : Next.js, React, GSAP, Tailwind.  
-- Conception de composants dynamiques et optimisation UI.
+## ClarityInsur.ai — IA appliquée (Assurance)  
+`🔒 Private`
 
-#### 🏗️ G2P4 — Cabine Connectée (en cours)
-Système industriel containerisé.  
-- Stack : PHP 8.2, MySQL 8.0, Docker, Makefile.  
-- Déploiement Dev/Test/Prod via GitFlow.
+- **🖼️ Classification d’images :** entraînement et fine‑tuning (TensorFlow)  
+- **🔁 Conversion & optimisation :** export vers ONNX, optimisation pour inference locale  
+- **🧩 API & explication :** API FastAPI avec module XAI pour interprétabilité  
+- **🚀 Déploiement :** conteneurisation Docker, pipeline CI/CD léger
 
-#### 🧠 ClarityInsur.ai — Vision AI Pipeline (B2B)
-Pipeline d’analyse d’images pour scoring de risques canins.  
-  - Fine‑tuning MobileNet/MobileVNet sur dataset d’images.
-  - Conversion et optimisation ONNX pour déploiement performant.
-  - API FastAPI versionnée avec schémas Pydantic.
-  - Module XAI pour explicabilité des prédictions.
-  - Alignement avec les exigences du EU AI Act.
-  - Déploiement Docker industrialisé.
-
-#### 🤖 OrionDigital (en pause partielle)
-Écosystème multi‑couches orienté IA.  
-- Core Engine Python pour traitement de données.  
-- Version interne PHP intégrant Ollama.  
-- IA locale, TTS, interface réactive.
-
-#### 📁 AgroConnect
-Application d’annuaire d’entreprise développée en Java.  
-- Architecture JavaFX (MVC) avec ORM.  
-- Mise en œuvre stricte de la POO.  
-- Note : A.  
-- Préparation à la mise en public (patch du hashage des mots de passe).
+<p align="center">
+  <img src="images/clarity-before.png" width="100%" />
+  <img src="images/clarity-after.png" width="100%" />
+</p>
 
 ---
 
-### Academics & Research
+## ORION — Assistant Vocal Local (Ollama)  
+`🔒 Private`
 
-- Vision AI Pipeline (ClarityInsur.ai) : entraînement, ONNX, XAI, conformité réglementaire.  
-- Projets Cube 1 & 2 : jeux et chat collaboratif (Python/Flutter), notes A.  
-- Object-Oriented Mastery : micro‑projets Java (polymorphisme, abstraction).  
-- Algorithmie : résolution de problèmes en Ruby et Python.
+```
+Pipeline :
+Voix → STT → Llama3.1 (Ollama) → TTS → Google Home
+```
+
+<p align="center">
+  <img src="images/orion_banner.png" width="100%" />
+</p>
 
 ---
 
-### Activité & Statistiques
+## Pipelines Data & Dashboards
 
-[![wakatime](https://wakatime.com/badge/user/1c7675a3-b1f7-400e-b246-88c9833be599.svg)](https://wakatime.com/@Gw3gwe)
+<p align="left">
+  <strong>🔁 Pipelines de données :</strong> extraction, nettoyage, transformation et préparation de datasets (Pandas)  
+  <br>
+  <strong>🧠 Modélisation :</strong> prototypes supervisés pour régression et classification (Scikit‑Learn)  
+  <br>
+  <strong>⚙️ IA appliquée :</strong> intégration et optimisation de modèles TensorFlow → ONNX pour l’inférence locale  
+  <br>
+  <strong>📊 Visualisation :</strong> dashboards interactifs Streamlit pour la restitution et l’analyse en temps réel  
+</p>
+
+
+## Projet citoyen — Application d’Émargement & Data Analyse  
+<em>`🔒 Private`</em>
+
+<p align="left">
+  <strong>🔄 Pipeline complet :</strong> ingestion → nettoyage → analyse → visualisation  
+  <br>
+  <strong>📈 Data Analyse :</strong> statistiques de fréquentation, tendances, segmentation  
+  <br>
+  <strong>🧪 Modélisation :</strong> prototypes pour la prédiction de présence (Scikit‑Learn)  
+  <br>
+  <strong>🖥️ Dashboard :</strong> interface Streamlit pour la restitution en temps réel  
+</p>
+
+---
+
+## Projets académiques (sélection)
+
+<p align="left">
+  <strong>💻 Développement logiciel :</strong> applications CRUD, architecture MVC (Java, PHP)  
+  <br>
+  <strong>🐍 Python :</strong> mini‑projets, scripts, jeux, automatisations  
+  <br>
+  <strong>🗄️ Bases de données :</strong> conception, SQL, schémas relationnels  
+</p>
+
+---
+
+## Objectifs
+
+<p align="left">
+  <strong>🚀 Backend Python :</strong> FastAPI, architecture, bonnes pratiques  
+  <br>
+  <strong>🔧 IA appliquée :</strong> optimisation, conversion et déploiement de modèles IA (TensorFlow → ONNX)  
+  <br>
+  <strong>🔁 Pipelines & automatisation :</strong> outils internes, services, scripts  
+  <br>
+  <strong>⚡ Inference locale :</strong> ONNX Runtime, optimisation CPU/GPU  
+</p>
+
+---
+
+# Activité
 
 <p align="center">
   <a href="https://wakatime.com/@Gw3gwe">
     <img src="https://wakatime.com/share/@Gw3gwe/8bef2a51-e79e-4481-8738-336bfb61be18.png" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://wakatime.com/@Gw3gwe">
     <img src="https://wakatime.com/share/@Gw3gwe/7ae18b24-f7b2-4494-b36a-fd5b92ab9299.png" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=bc13fe&height=100&section=footer" />
 </p>
