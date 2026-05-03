@@ -3,9 +3,8 @@
 </p>
 
 <h1 align="center">Gwenhaël Le Thiec</h1>
-<h2 align="center">AI Engineer & MLOps — De l'entraînement GPU au déploiement industriel</h2>
-<p align="center">Vision • GPU Training • Industrial Deployment</p>
-
+<h2 align="center">Développeur Python • Backend • IA appliquée</h2>
+<p align="center">APIs • Data Pipelines • Déploiement de modèles IA</p>
 
 <p align="center" style="margin-top:20px;">
   <a href="https://wakatime.com/@Gw3gwe">
@@ -17,6 +16,9 @@
   <a href="https://www.linkedin.com/in/gwenhael-le-thiec/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://myportfolio-by-swennsco.online/">
+    <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://github.com/Gw3nhael51">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -27,94 +29,83 @@
 
 ---
 
-# 🎯 PROFIL
+<h1 align="center">Profil</h1>
 
-Étudiant en alternance au **CESI Reims (CDA Bac+3)**, spécialisé en **Computer Vision**, **MLOps** et **déploiement de modèles IA en production**.
+Étudiant en **Bac+2 Informatique — CESI Reims**, en préparation d’un **Bac+3 CDA**.  
+Spécialisation : **backend Python**, **API**, **pipelines data** et **IA appliquée** — intégration, optimisation et déploiement de modèles entraînés dans des applications concrètes.
 
-- **Actuellement :** Stagiaire Développement Web chez **TDM-GROUP** (Janvier → Juin 2026)  
-- **Objectif :** Alternance **AI Engineer / MLOps** (Août/Septembre 2026)
+- **🎓 Formation :** Bac+2 Informatique (CESI Reims) — poursuite en Bac+3 CDA  
+- **💼 Actuellement :** Stagiaire Développement Web — **TDM‑GROUP** (Janvier → Juin 2026)  
+- **🎯 Objectif :** Alternance **Python / Backend / Data / IA appliquée** (Août/Septembre 2026)
 
-**Approche :**  
-Je conçois des pipelines IA complets :  
-**Entraînement GPU → Optimisation ONNX → API FastAPI → Conteneurisation Docker → Déploiement industriel.**
+**Approche technique :**  
+Je conçois et livre des solutions end‑to‑end :  
+**FastAPI → Pipelines Data → Modèles IA (TensorFlow → ONNX) → Docker → Déploiement.**
 
-> *"De l'entraînement GPU au conteneur Docker ML end-to-end."*
+> *IA appliquée = intégrer et déployer des modèles entraînés dans des systèmes réels, pas consommer des API externes.*
 
----
+<h1 align="center">Stack technique</h1>
 
-# 🛠️ STACK TECHNIQUE
-
-### 🧠 Vision par Ordinateur & ML
+### Python, Data & IA appliquée:
 <p align="left">
-  <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <strong>Usage :</strong> prototypage, préparation de données et entraînement → export modèles pour inference locale. 🧠
 </p>
-
-### ⚙️ MLOps & Production
-<p align="left">
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/GPU_Training-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
-### 🏗️ Backend & Infrastructure
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+</p>
+
+### Backend & Déploiement:
+<p align="left">
+  <strong>Usage :</strong> APIs, conteneurisation, bases relationnelles et déploiement. 🐳🗄️
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP_8.2-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### Outils & Front-end
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
+<p align="left">
+  <strong>Usage :</strong> interfaces, intégration front→back, gestion de versions et outils locaux pour LLMs. 🔧💻
 </p>
 
 ---
 
-# 🚀 RÉALISATIONS TECHNIQUES
+# Projets principaux
 
-> *Certains dépôts sont privés pour raisons de confidentialité.*
+## ClarityInsur.ai — IA appliquée (Assurance)  
+`🔒 Private`
 
----
-
-## 🧠 ClarityInsur.ai — Vision AI Pipeline B2B  
-**Classification & scoring de risques (Assurance)** `🔒 Private`
-
-```
-Précision : 96.28% | Races : 124 | Inférence : 8.74ms
-```
-
-**Tech :**  
-- Fine-tuning **MobileNetV2**  
-- Optimisation **ONNX Runtime**  
-- API **FastAPI** + module **XAI**  
-- Déploiement **Docker multi-stage**
+- **🖼️ Classification d’images :** entraînement et fine‑tuning (TensorFlow)  
+- **🔁 Conversion & optimisation :** export vers ONNX, optimisation pour inference locale  
+- **🧩 API & explication :** API FastAPI avec module XAI pour interprétabilité  
+- **🚀 Déploiement :** conteneurisation Docker, pipeline CI/CD léger
 
 <p align="center">
-  <img src="images/clarity-before.png" width="45%" />
-  <img src="images/clarity-after.png" width="45%" />
+  <img src="images/clarity-before.png" width="100%" />
+  <img src="images/clarity-after.png" width="100%" />
 </p>
 
 ---
 
-## 🤖 Jarvis — Assistant Vocal Local (Ollama)  
-**Assistant vocal IA multimodal local** `🔒 Private`
+## ORION — Assistant Vocal Local (Ollama)  
+`🔒 Private`
 
-Pipeline :  
 ```
+Pipeline :
 Voix → STT → Llama3.1 (Ollama) → TTS → Google Home
 ```
-
-**Tech :**  
-- Docker Compose (app + Ollama + audio server)  
-- Discord bot modulaire  
-- Piper TTS FR  
-- Orchestration Makefile
 
 <p align="center">
   <img src="images/orion_banner.png" width="100%" />
@@ -122,60 +113,61 @@ Voix → STT → Llama3.1 (Ollama) → TTS → Google Home
 
 ---
 
-## 🏗️ G2P4 — Système Industriel Containerisé  
-**Projet académique (PHP 8.2 + MySQL + Docker)** `🔒 Private`
+## Pipelines Data & Dashboards
 
-- Architecture **MVC**  
-- Environnements **Dev/Test/Prod**  
-- Makefile complet  
-- GitFlow
+<p align="left">
+  <strong>🔁 Pipelines de données :</strong> extraction, nettoyage, transformation et préparation de datasets (Pandas)  
+  <br>
+  <strong>🧠 Modélisation :</strong> prototypes supervisés pour régression et classification (Scikit‑Learn)  
+  <br>
+  <strong>⚙️ IA appliquée :</strong> intégration et optimisation de modèles TensorFlow → ONNX pour l’inférence locale  
+  <br>
+  <strong>📊 Visualisation :</strong> dashboards interactifs Streamlit pour la restitution et l’analyse en temps réel  
+</p>
 
-<p align="center">
-  <img src="images/cube-projt.png" width="100%" />
+
+## Projet citoyen — Application d’Émargement & Data Analyse  
+<em>`🔒 Private`</em>
+
+<p align="left">
+  <strong>🔄 Pipeline complet :</strong> ingestion → nettoyage → analyse → visualisation  
+  <br>
+  <strong>📈 Data Analyse :</strong> statistiques de fréquentation, tendances, segmentation  
+  <br>
+  <strong>🧪 Modélisation :</strong> prototypes pour la prédiction de présence (Scikit‑Learn)  
+  <br>
+  <strong>🖥️ Dashboard :</strong> interface Streamlit pour la restitution en temps réel  
 </p>
 
 ---
 
-## 🔬 PyTorch Lab — FashionMNIST  
-**Laboratoire PyTorch modulaire** `⏳ En cours`
+## Projets académiques (sélection)
 
-- MLP custom  
-- Tests Pytest  
-- Pipeline GPU  
-- CLI + Makefile  
-- Structure ML pro
-
-<p align="center">
-  <img src="images/pytorchlab.png" width="100%" />
+<p align="left">
+  <strong>💻 Développement logiciel :</strong> applications CRUD, architecture MVC (Java, PHP)  
+  <br>
+  <strong>🐍 Python :</strong> mini‑projets, scripts, jeux, automatisations  
+  <br>
+  <strong>🗄️ Bases de données :</strong> conception, SQL, schémas relationnels  
 </p>
 
 ---
 
-# 📚 AUTRES PROJETS
+## Objectifs
 
-### Computer Vision & ML
-- **petsClassifier**
-- **dog-risk-scoring-api**
-
-### Data Analysis
-- **streamlit** — Dashboards S&P 500  
-- **Harvard-CS50AI-Projects** — BFS/DFS, logique, probas (code privé)
-
-### Académique
-- **AgroConnect** — JavaFX, MVC, ORM, rôles & CRUD
-
----
-
-# 🔭 VISION & OBJECTIFS
-
-- Segmentation & détection (YOLO, Mask R-CNN)  
-- IA vocale locale (edge computing)  
-- Domotique intelligente  
-- Quantum ML (exploration)
+<p align="left">
+  <strong>🚀 Backend Python :</strong> FastAPI, architecture, bonnes pratiques  
+  <br>
+  <strong>🔧 IA appliquée :</strong> optimisation, conversion et déploiement de modèles IA (TensorFlow → ONNX)  
+  <br>
+  <strong>🔁 Pipelines & automatisation :</strong> outils internes, services, scripts  
+  <br>
+  <strong>⚡ Inference locale :</strong> ONNX Runtime, optimisation CPU/GPU  
+</p>
 
 ---
 
-# 📊 ACTIVITÉ
+# Activité
 
 <p align="center">
   <a href="https://wakatime.com/@Gw3gwe">
